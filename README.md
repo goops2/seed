@@ -2,7 +2,7 @@
 A basic Flask app to visualize some data.
 
 ### Requirements: 
-- `git, Python 2.7.X`, [pip](http://stackoverflow.com/a/30017353/6031066)
+- `git, python`, [pip](http://stackoverflow.com/a/30017353/6031066)
 
 ### Installation: 
 - `pip install virtualenvwrapper`

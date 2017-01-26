@@ -2,12 +2,12 @@
 A basic Flask app to visualize some data.
 
 ### Requirements: 
-- `virtualenvwrapper` (optional but reccomended)
-- `git, Python 2.7.X`, `pip`
+- `git, Python 2.7.X`, [pip](http://stackoverflow.com/a/30017353/6031066)
 
 ### Installation: 
+- `pip install virtualenvwrapper`
 - `git clone https://github.com/goops2/seed.git && cd seed`
-- `workon seed-env` (If using `virtualenv`)
+- `workon seed-env`
 - `pip install -r requirements.txt`
 
 

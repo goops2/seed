@@ -7,10 +7,10 @@ A basic Flask app to visualize some data.
 ### Installation: 
 - `pip install virtualenvwrapper`
 - `git clone https://github.com/goops2/seed.git && cd seed`
+- `git checkout develop`
 - `mkvirtualenv seed-env`
 - `pip install -r requirements.txt`
-- `export FLASK_APP=basic.py`
-- `python -m flask run`
+- `python basic.py`
 
 - Go to: http://127.0.0.1:5000/
 
